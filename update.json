@@ -1,8 +1,8 @@
 {
-  "version": "1.0.24",
-  "minimumSupportedVersion": "1.0.24",
-  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.24/SmartLedger-Setup-1.0.24.exe",
-  "sha256": "2941365D04A6BAB664A506E4FA85217B5173B886125988A67755C5B02C8FFB4B",
-  "releaseNotes": "관리자 운영 현황 페이지와 최소 사용 통계를 추가했습니다.\n회원 운영 정보는 로그인·버전·실행 횟수만 수집하며 장부·주문·고객·매출·API 정보는 서버로 보내지 않습니다.\n확인된 관리자 계정만 운영 정보를 읽을 수 있도록 보안을 강화했습니다.\nMicrosoft Store 배포판의 업데이트 연결을 보완했습니다.",
-  "publishedAt": "2026-08-26T15:52:22.6892217Z"
+  "version": "1.0.25",
+  "minimumSupportedVersion": "1.0.25",
+  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.25/SmartLedger-Setup-1.0.25.exe",
+  "sha256": "E23543F3DA7B079DD137FC5E70C65C1694B4DBC4893930D905E563DE9D03CC79",
+  "releaseNotes": "로그인 직후 앱을 화면에 표시하고 로그인 상태를 안전하게 유지합니다. API 연결 확인 진행률을 우측 상단에 표시합니다. 같은 상품의 묶음 구성을 1묶음 대표로 정리하고 소싱 링크 1개로 묶음별 원가와 판매 가능 재고를 계산합니다. 상품 옵션 수량을 재고로 오인하던 문제를 수정했습니다.",
+  "publishedAt": "2026-08-26T22:22:37.7028477Z"
 }
