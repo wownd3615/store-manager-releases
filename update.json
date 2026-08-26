@@ -1,8 +1,8 @@
 {
-  "version": "1.0.23",
-  "minimumSupportedVersion": "1.0.23",
-  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.23/SmartLedger-Setup-1.0.23.exe",
-  "sha256": "D3CB394C7C414C13D85599102CA5485AA4EF5319AF9569CD50FC90E3A8943971",
-  "releaseNotes": "새 버전 공개 시 필수 업데이트 적용\nGoogle 로그인과 로컬 장부 계정 귀속 안정화\n네이버·쿠팡 API 연결 도우미 개선\n주문·상품·알림·최저가 확인 오류와 UI 정렬 개선",
-  "publishedAt": "2026-08-26T14:55:47.6034966Z"
+  "version": "1.0.24",
+  "minimumSupportedVersion": "1.0.24",
+  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.24/SmartLedger-Setup-1.0.24.exe",
+  "sha256": "2941365D04A6BAB664A506E4FA85217B5173B886125988A67755C5B02C8FFB4B",
+  "releaseNotes": "관리자 운영 현황 페이지와 최소 사용 통계를 추가했습니다.\n회원 운영 정보는 로그인·버전·실행 횟수만 수집하며 장부·주문·고객·매출·API 정보는 서버로 보내지 않습니다.\n확인된 관리자 계정만 운영 정보를 읽을 수 있도록 보안을 강화했습니다.\nMicrosoft Store 배포판의 업데이트 연결을 보완했습니다.",
+  "publishedAt": "2026-08-26T15:52:22.6892217Z"
 }
