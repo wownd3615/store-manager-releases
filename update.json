@@ -1,8 +1,8 @@
 {
-  "version": "1.0.28",
-  "minimumSupportedVersion": "1.0.5",
-  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.28/SmartLedger-Setup-1.0.28.exe",
-  "sha256": "13E5640DB74A3722A27F535B999E9A72F4A137074B940EC7FF36AAED79CC89BF",
-  "releaseNotes": "정산 상세의 고객 실결제액과 상품 수수료율 표시를 바로잡고 판매자 부담 할인 안내를 명확히 개선했습니다.",
-  "publishedAt": "2026-08-27T12:05:55.2470528Z"
+  "version": "1.0.29",
+  "minimumSupportedVersion": "1.0.29",
+  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.29/SmartLedger-Setup-1.0.29.exe",
+  "sha256": "182D9C9A94E67FFFAF7CC57BD7895FBD8F6E5581D27632EC7EA8FA30F8C1B5BD",
+  "releaseNotes": "네이버 배송비 수수료가 재동기화 뒤 누락되던 문제를 수정했습니다. 상품 수수료와 배송비 수수료를 분리해 총수수료·실효 수수료율·순수익을 정확히 계산합니다.",
+  "publishedAt": "2026-08-27T12:18:48.0346124Z"
 }
