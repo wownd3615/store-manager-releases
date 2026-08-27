@@ -1,8 +1,8 @@
 {
-  "version": "1.0.29",
-  "minimumSupportedVersion": "1.0.29",
-  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.29/SmartLedger-Setup-1.0.29.exe",
-  "sha256": "182D9C9A94E67FFFAF7CC57BD7895FBD8F6E5581D27632EC7EA8FA30F8C1B5BD",
-  "releaseNotes": "네이버 배송비 수수료가 재동기화 뒤 누락되던 문제를 수정했습니다. 상품 수수료와 배송비 수수료를 분리해 총수수료·실효 수수료율·순수익을 정확히 계산합니다.",
-  "publishedAt": "2026-08-27T12:18:48.0346124Z"
+  "version": "1.0.31",
+  "minimumSupportedVersion": "1.0.31",
+  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.31/SmartLedger-Setup-1.0.31.exe",
+  "sha256": "FC125EA235ADC16766CA373EC2604D46EF842533D98F6C2AAA3BB876215EA4D8",
+  "releaseNotes": "주문 상세에서 배송 전 메모를 상단에 표시하고, 메모가 없는 주문은 판매처 입력 없음으로 구분합니다. 고객 주소 뒤 괄호 참고주소는 화면과 복사값에서 제거하고 상세주소는 그대로 유지합니다.",
+  "publishedAt": "2026-08-27T12:45:56.9141134Z"
 }
