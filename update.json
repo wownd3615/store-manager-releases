@@ -1,8 +1,8 @@
 {
-  "version": "1.0.26",
+  "version": "1.0.27",
   "minimumSupportedVersion": "1.0.5",
-  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.26/SmartLedger-Setup-1.0.26.exe",
-  "sha256": "6076A577C715E6429B75609283E3C902EEDCAD40BE440A323F3998AC45592BDC",
-  "releaseNotes": "네이버 주문 상세에서 판매자 부담 할인과 지급 포인트 최대를 서로 다른 비용으로 분리해 표시합니다. 주문 API 할인 700원과 상품 설정 포인트 300원이 모두 정산금·순수익 계산에 반영되는지 검증했으며, 화면에서 최대 합계도 함께 확인할 수 있습니다.",
-  "publishedAt": "2026-08-27T11:30:24.8299992Z"
+  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.27/SmartLedger-Setup-1.0.27.exe",
+  "sha256": "C136FBDF540849FCFEB507F8A87261C589C4D890558C58FF1E0EA128E3A0E07A",
+  "releaseNotes": "상품관리에서 상품 구성과 판매단위를 분리하고, 중복 등록이 구성 수를 부풀리지 않도록 개선했습니다.",
+  "publishedAt": "2026-08-27T11:52:38.1789218Z"
 }
