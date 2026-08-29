@@ -1,8 +1,8 @@
 {
-  "version": "1.0.34",
+  "version": "1.0.35",
   "minimumSupportedVersion": "1.0.32",
-  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.34/SmartLedger-Setup-1.0.34.exe",
-  "sha256": "21569D6977F04ECD34B5E98417DB99B37D8898DD790763FB30B0BC7E80295463",
-  "releaseNotes": "운영 대시보드 추가: 기간별 매출·순수익 추이, 플랫폼별 성과, 주문·판매수량, 처리할 업무를 한눈에 확인합니다. 주문관리에서 취소·반품 열 대신 받는 분 이름을 표시합니다. 작업표시줄과 설치본 아이콘을 선명한 스마트장부 아이콘으로 통일했습니다.",
-  "publishedAt": "2026-08-29T23:05:11.0824233Z"
+  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.35/SmartLedger-Setup-1.0.35.exe",
+  "sha256": "23E062EF2D58F5B11D7ABCBBD5A29FA65CCABA116035A05FDC242A2776F8D91D",
+  "releaseNotes": "대시보드 그래프를 전면 개선했습니다. 매출 실선·면적 그래프와 순수익 점선 그래프를 분리 축으로 표시하고, 네이버·쿠팡 매출 비중 원형 그래프와 플랫폼별 매출·순수익·수익률을 한 화면에 제공합니다. 시작일과 종료일을 직접 지정해 조회할 수 있습니다.",
+  "publishedAt": "2026-08-29T23:16:50.4805311Z"
 }
