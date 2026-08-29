@@ -1,8 +1,8 @@
 {
-  "version": "1.0.31",
-  "minimumSupportedVersion": "1.0.31",
-  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.31/SmartLedger-Setup-1.0.31.exe",
-  "sha256": "FC125EA235ADC16766CA373EC2604D46EF842533D98F6C2AAA3BB876215EA4D8",
-  "releaseNotes": "주문 상세에서 배송 전 메모를 상단에 표시하고, 메모가 없는 주문은 판매처 입력 없음으로 구분합니다. 고객 주소 뒤 괄호 참고주소는 화면과 복사값에서 제거하고 상세주소는 그대로 유지합니다.",
-  "publishedAt": "2026-08-27T12:45:56.9141134Z"
+  "version": "1.0.33",
+  "minimumSupportedVersion": "1.0.32",
+  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.33/SmartLedger-Setup-1.0.33.exe",
+  "sha256": "D8E26E7EF67AB09E203ECE7D01A63C4A54BAD4C63A5FEE8753FD4203AD9B15BE",
+  "releaseNotes": "주문관리 표에서 취소·반품 열을 구매자 열로 교체했습니다. 구매자 이름은 개인정보 보호를 위해 마스킹하여 목록에서 바로 확인할 수 있고, 전체 정보는 기존 상세 화면에서 확인합니다.",
+  "publishedAt": "2026-08-29T16:55:45.9454724Z"
 }
