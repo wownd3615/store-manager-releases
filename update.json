@@ -1,8 +1,8 @@
 {
-  "version": "1.0.35",
-  "minimumSupportedVersion": "1.0.32",
-  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.35/SmartLedger-Setup-1.0.35.exe",
-  "sha256": "23E062EF2D58F5B11D7ABCBBD5A29FA65CCABA116035A05FDC242A2776F8D91D",
-  "releaseNotes": "대시보드 그래프를 전면 개선했습니다. 매출 실선·면적 그래프와 순수익 점선 그래프를 분리 축으로 표시하고, 네이버·쿠팡 매출 비중 원형 그래프와 플랫폼별 매출·순수익·수익률을 한 화면에 제공합니다. 시작일과 종료일을 직접 지정해 조회할 수 있습니다.",
-  "publishedAt": "2026-08-29T23:16:50.4805311Z"
+  "version": "1.0.36",
+  "minimumSupportedVersion": "1.0.36",
+  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.36/SmartLedger-Setup-1.0.36.exe",
+  "sha256": "8B062FBBC54ED8D2AC5A47EBE302CBB73A5E9A76FBC2770DF95CBBAFF67ECB4C",
+  "releaseNotes": "최저가 링크 자동검색과 상품별 ON/OFF, 1~24시간 확인주기, 상세페이지·상품명·용량·수량 검증, 네이버·쿠팡 동일상품 링크 공유, 90일 가격변동 그래프, 이번달 기본 기간과 마지막 기간 저장을 추가했습니다. 검색목록·결제주소 오등록과 잘못된 묶음 상품 연결을 정정했습니다.",
+  "publishedAt": "2026-08-30T00:46:23.3292283Z"
 }
