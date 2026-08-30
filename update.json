@@ -1,8 +1,8 @@
 {
-  "version": "1.0.39",
-  "minimumSupportedVersion": "1.0.39",
-  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.39/SmartLedger-Setup-1.0.39.exe",
-  "sha256": "A644A5FDCD28221D23010C63ED42C86EB6FC18BF4CE0B50563FBF29E775E11FA",
-  "releaseNotes": "11번가 상품 페이지에서 주 상품의 유료 배송비를 추천상품 무료배송보다 우선하도록 수정했습니다. 주문 예상 소싱원가는 상품가×수량+주문 배송비 1회로 계산하고 상세 화면에 분리 표시합니다.",
-  "publishedAt": "2026-08-30T01:35:48.3203579Z"
+  "version": "1.0.40",
+  "minimumSupportedVersion": "1.0.40",
+  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.40/SmartLedger-Setup-1.0.40.exe",
+  "sha256": "704C9D4DB14C7FCE430687BB2868694E5657ADA34E994751F9A49FF85B6492F1",
+  "releaseNotes": "묶음상품 재확인 시 1개 가격으로 돌아가던 오류를 수정했습니다. 1묶음 기준 상품가는 2·3·6묶음에 정확히 배수 적용하고 주문 배송비는 한 번만 더합니다. 묶음 알림에서 해당 구성이 유지되며 소싱 알림 여러 건은 상세 기록을 보존한 채 한 번의 요약 팝업으로 표시합니다.",
+  "publishedAt": "2026-08-30T02:08:55.7182650Z"
 }
