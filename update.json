@@ -1,8 +1,8 @@
 {
-  "version": "1.0.43",
-  "minimumSupportedVersion": "1.0.43",
-  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.43/SmartLedger-Setup-1.0.43.exe",
-  "sha256": "35C2D6EE3934D5F9BBDB587E8EA47628094D2CAB26B79494F77562691376D475",
-  "releaseNotes": "최저가 자동 확인을 일시 중지했습니다. 레스큐라이트·퓨어리프·올록담·코엔삼백초 파이토블락·비렌느 스팟엑스의 검증된 에누리 경유 링크만 유지하고, 구성별 묶음 금액과 배송비 기준을 정리했습니다.",
-  "publishedAt": "2026-08-30T06:37:02.6403819Z"
+  "version": "1.0.44",
+  "minimumSupportedVersion": "1.0.44",
+  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.44/SmartLedger-Setup-1.0.44.exe",
+  "sha256": "35181B804BD7DDAC5D391CAFE97CE4907CA580140AD25FAAC0CD569C09FA2162",
+  "releaseNotes": "최저가 자동 확인을 완전 중지하고 기본값도 안전하게 차단했습니다. 레스큐라이트·퓨어리프·올록담·코엔삼백초 파이토블락·비렌느 스팟엑스의 검증된 에누리 중간 이동 링크만 유지하며 묶음 금액과 배송비 기준을 정리했습니다.",
+  "publishedAt": "2026-08-30T06:44:31.6783419Z"
 }
