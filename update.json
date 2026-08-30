@@ -1,8 +1,8 @@
 {
-  "version": "1.0.37",
-  "minimumSupportedVersion": "1.0.37",
-  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.37/SmartLedger-Setup-1.0.37.exe",
-  "sha256": "7E7EB56CDAF83C2CD262CCB1D87894A10B267C33FD736F5E6F804F45126E5975",
-  "releaseNotes": "묶음상품 구성별 편집과 원가·배송비·세후 순수익률 계산을 추가했습니다. 소싱 변경 알림에서 해당 상품 창을 바로 열며, 판매 종료 상품을 판매중으로 오인하지 않도록 검증을 강화했습니다. 코엔삼백초 파이토블락 소싱 링크를 현재 판매처를 비교하는 상품 상세 링크로 교정했습니다.",
-  "publishedAt": "2026-08-30T01:09:54.2922451Z"
+  "version": "1.0.38",
+  "minimumSupportedVersion": "1.0.38",
+  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.38/SmartLedger-Setup-1.0.38.exe",
+  "sha256": "5DAF374433C176A4A8264F147DCC5C091C662DE05548B1E72D0E15B08B2F3C05",
+  "releaseNotes": "네이버 판매상품에서 네이버 쇼핑·스마트스토어 소싱 링크를 자동·수동 모두 제외했습니다. 에누리 이동 링크가 네이버로 연결되는 경우도 후보에서 제외하며, 기존 네이버 자기채널 소싱 링크는 안전하게 해제됩니다.",
+  "publishedAt": "2026-08-30T01:26:31.7047162Z"
 }
