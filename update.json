@@ -1,8 +1,8 @@
 {
-  "version": "1.0.38",
-  "minimumSupportedVersion": "1.0.38",
-  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.38/SmartLedger-Setup-1.0.38.exe",
-  "sha256": "5DAF374433C176A4A8264F147DCC5C091C662DE05548B1E72D0E15B08B2F3C05",
-  "releaseNotes": "네이버 판매상품에서 네이버 쇼핑·스마트스토어 소싱 링크를 자동·수동 모두 제외했습니다. 에누리 이동 링크가 네이버로 연결되는 경우도 후보에서 제외하며, 기존 네이버 자기채널 소싱 링크는 안전하게 해제됩니다.",
-  "publishedAt": "2026-08-30T01:26:31.7047162Z"
+  "version": "1.0.39",
+  "minimumSupportedVersion": "1.0.39",
+  "installerUrl": "https://github.com/wownd3615/store-manager-releases/releases/download/v1.0.39/SmartLedger-Setup-1.0.39.exe",
+  "sha256": "A644A5FDCD28221D23010C63ED42C86EB6FC18BF4CE0B50563FBF29E775E11FA",
+  "releaseNotes": "11번가 상품 페이지에서 주 상품의 유료 배송비를 추천상품 무료배송보다 우선하도록 수정했습니다. 주문 예상 소싱원가는 상품가×수량+주문 배송비 1회로 계산하고 상세 화면에 분리 표시합니다.",
+  "publishedAt": "2026-08-30T01:35:48.3203579Z"
 }
